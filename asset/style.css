@@ -465,6 +465,7 @@ input[type="checkbox"] {
 /*Contact*/
 .contact {
   min-height: auto;
+  height: 600px;
   padding-bottom: 0;
 }
 
